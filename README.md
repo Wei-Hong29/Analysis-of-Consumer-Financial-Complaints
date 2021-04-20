@@ -34,6 +34,7 @@
 
 
 
+
 ### About the data that is analysed:
 
 The Consumer Complaint Database is a collection of complaints about consumer financial products 
