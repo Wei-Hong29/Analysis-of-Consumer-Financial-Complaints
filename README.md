@@ -6,7 +6,7 @@
 
 
 ### The data analysis is done in the following steps:
-- **Step 0: Draw 40,000 samples from our data file**(bankcomplaints.csv, which is from our google drive link above)
+- **Step 0: Draw 40,000 samples from our data file(bankcomplaints.csv, which is from our google drive link above)**
 
 - **Step a: Pre-processing**
   - Data Quality Check
