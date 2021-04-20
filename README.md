@@ -5,7 +5,7 @@
 
 
 
-###The data analysis is done in the following steps:
+### The data analysis is done in the following steps:
 - Step 0: Draw 40,000 samples from our data file(bankcomplaints.csv)
 
 - Step a: Pre-processing
@@ -32,7 +32,7 @@
 
 
 
-###About the data that is analysed:
+### About the data that is analysed:
 
 The Consumer Complaint Database is a collection of complaints about consumer financial products 
 and services that are sent to companies for response. Complaints are published after the company 
