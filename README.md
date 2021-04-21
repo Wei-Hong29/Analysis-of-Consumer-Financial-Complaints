@@ -1,6 +1,11 @@
 # Analysis-of-Consumer-Financial-Complaints
 
-- Done as an assignment part of my degree's data science unit.
+- Done as an assignment part of my degree's data science units.
+- This project aims to analyse consumer financial complaints for details such as 
+  - the most common issues in the complaints
+  - how the number of issue changes over time, in different categories
+  - top 5 companies with most complaints
+  - and more
 - Data analysed can be found here(due to Github limiting file sizes to 25MB): https://drive.google.com/file/d/1k8_RCNhjhG-UahDTMYSNmKy193AEo3cl/view?usp=sharing
 
 
