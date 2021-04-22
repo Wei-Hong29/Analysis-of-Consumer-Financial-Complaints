@@ -53,3 +53,5 @@ Database. The data is contained in the file bankcomplaints.csv and consists of t
 
 See https://data.world/dataquest/bank-and-credit-card-complaints/workspace/project-summary?agentid=dataquest&datasetid=bank-and-credit-card-complaints for more information.
 
+**Note about the dataset used in this project - bankcomplaints.csv:**
+I do not own this dataset. All credits go to its rightful owner.
