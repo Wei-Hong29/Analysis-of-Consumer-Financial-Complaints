@@ -6,12 +6,12 @@ rm(list = ls())
 library(ggplot2)
 library(lubridate)
 library(wesanderson)
-#setwd('C:/Users/User/Downloads/FIT3152/Assignment 1')
+#setwd('C:/Users/User/Downloads/proj0')
 
 
 
 #draw custom sample of 40,000 rows from data set for analysis
-set.seed(28055322) # 28055322 = your student ID 
+set.seed(28055322) 
 bankcomplaints <-read.csv("bankcomplaints.csv") 
 bankcomplaints <-bankcomplaints [sample(nrow(bankcomplaints), 40000), ] # 40000 rows
 
