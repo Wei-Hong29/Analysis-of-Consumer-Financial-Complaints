@@ -11,7 +11,7 @@ library(wesanderson)
 
 
 #draw custom sample of 40,000 rows from data set for analysis
-set.seed(28055322) 
+set.seed(28055322) #random seed
 bankcomplaints <-read.csv("bankcomplaints.csv") 
 bankcomplaints <-bankcomplaints [sample(nrow(bankcomplaints), 40000), ] # 40000 rows
 
